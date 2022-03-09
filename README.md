@@ -1,5 +1,7 @@
 #### Olá, meu nome é Junior Braga e estudo programação. 💡
 
+###### Contato: jpbraga.junior@gmail.com
+
 ### Aprendendo ✍️ 
 <div style='display: inline_block'>
   <img align='center' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
