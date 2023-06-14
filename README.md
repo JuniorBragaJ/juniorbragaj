@@ -1,8 +1,8 @@
-#### Olá, meu nome é Junior Braga e sou um desenvolvedor no começo da carreira! 💡
+#### Hello, my name is Junior Braga and i'm a web developer! 💡
 
-###### Contato: jpbraga.junior@gmail.com
+###### Contact: jpbraga.junior@gmail.com
 
-### Trabalhando atualmente com ✍️ 
+### Working with ✍️ 
 <div style='display: inline_block'>
   <img align='center' src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
   <img align='center' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
