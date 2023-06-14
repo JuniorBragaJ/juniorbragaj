@@ -1,6 +1,7 @@
 #### Hello, my name is Junior Braga and i'm a web developer! 💡
 
 ###### Contact: jpbraga.junior@gmail.com
+###### LinkedIn: linkedin.com/in/junior-braga-362579194/
 
 ### Working with ✍️ 
 <div style='display: inline_block'>
